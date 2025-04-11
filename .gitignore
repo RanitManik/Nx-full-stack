@@ -46,3 +46,9 @@ Thumbs.db
 out
 
 test-output
+
+
+# environment variables file
+.env
+vite.config.*.timestamp*
+vitest.config.*.timestamp*
